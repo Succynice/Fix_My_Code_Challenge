@@ -89,4 +89,4 @@ vagrant@ubuntu-bionic:~$
 ## Connect
 
 <!-- twitter -->
-[![Twitter](https://img.shields.io/twitter/follow/ralex_uy?style=social)](https://twitter.com/succynice) <!-- linkedin --> [![Linkedin](https://img.shields.io/badge/LinkedIn-+26K-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/succynice/) <!-- github --> [![Github](https://img.shields.io/github/followers/ralexrivero?style=social)](https://github.com/succynice/)
+[![Twitter](https://img.shields.io/twitter/follow/ralex_uy?style=social)](https://twitter.com/succynice) <!-- linkedin --> [![Linkedin](https://img.shields.io/badge/LinkedIn-+26K-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/succynice/) <!-- github --> [![Github](https://img.shields.io/github/followers/succynice?style=social)](https://github.com/succynice/)
